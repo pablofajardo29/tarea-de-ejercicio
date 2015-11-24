@@ -1,0 +1,8 @@
+
+package oop1;
+
+public class Ejercicio1 {
+    public static void main(String[]args){
+        Circulo cir1=new Circulo();
+    System.out.println("Area cir1:"+cir1.getArea());
+        
